@@ -9,8 +9,9 @@ public class Concat {
     // NOTES:
     // 1. Make sure to name the method concat
     public static void main(String[] args) {
+            System.out.println("Hi");
 
-//        System.out.println("----TEST CASES---");
+//       System.out.println("----TEST CASES---");
 //        System.out.println(concat("a", "b").equals("ab"));
 //        System.out.println(concat("1", "2").equals("12"));
 //        System.out.println(concat("5, 4 ,3 ,2 ,,,,", "3,2 1, ;;;").equals("5, 4 ,3 ,2 ,,,,3,2 1, ;;;"));
