@@ -1,4 +1,4 @@
-package Easy.Strings.concat;
+package Easy.Strings;
 
 public class CharacterExtraction {
     // READ ME

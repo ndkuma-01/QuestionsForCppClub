@@ -1,9 +1,12 @@
-package Easy.Strings.concat;
+package Easy.Strings;
 
 import javax.swing.plaf.ListUI;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collection;
 import java.util.List;
+import java.util.stream.Collector;
+import java.util.stream.Collectors;
 
 public class Concat {
     //  READ_ME
@@ -18,7 +21,6 @@ public class Concat {
 //        System.out.println(concat("a", "b").equals("ab"));
 //        System.out.println(concat("1", "2").equals("12"));
 //        System.out.println(concat("5, 4 ,3 ,2 ,,,,", "3,2 1, ;;;").equals("5, 4 ,3 ,2 ,,,,3,2 1, ;;;"));
-
     }
 
 
