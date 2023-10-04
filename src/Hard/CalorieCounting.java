@@ -19,16 +19,16 @@ public class CalorieCounting {
     }
 
     //remember to use scanner to read from the file. If you don't know how to do that review Easy.FileIO
-   public static int p1(){
+    public static int p1(){
 
         return 0;
-   }
+    }
 
 
    //remember to use scanner to read from the file. If you don't know how to do that review Easy.FileIO
-   public static int p2(){
+    public static int p2(){
 
-    return 0;
-   }
+        return 0;
+    }
 
 }
